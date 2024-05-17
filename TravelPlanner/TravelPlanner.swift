@@ -404,7 +404,7 @@ enum TravelMode: String, Codable {
 }
 func getBestTravelMode(source: String, destination: String) -> (mode: TravelMode, distance: Double)? {
     
-    let apiKey = "AIzaSyCF98BYubglPgDYQoGZn9rgTut5aaETKsA"
+    let apiKey = "aBNcd" //hide api key
     let baseURL = "https://maps.googleapis.com/maps/api/directions/json?"
     let modes: [TravelMode] = [.driving, .walking, .biking, .transit]
     
