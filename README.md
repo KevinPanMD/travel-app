@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Swift-based application scrapes TripAdvisor for top-rated hotels, restaurants, and attractions in a given destination and generates an optimized travel itinerary. By utilizing concurrent programming, it ensures efficient data retrieval and processing to help travelers plan their trips effortlessly. The Google Maps API key had to be hidden and certain Google Maps dependencies had to be deleted for confidentiality.
+This Swift-based application scrapes TripAdvisor for top-rated hotels, restaurants, and attractions in a given destination and generates an optimized travel itinerary. By utilizing concurrent programming, it ensures efficient data retrieval and processing to help travelers plan their trips effortlessly. The Google Maps API key had to be hidden and certain Google Maps dependencies had to be deleted for confidentiality. To see the main logic, view TravelPlanner/TravelPlanner.swift.
 
 ## Features
 
