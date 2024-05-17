@@ -1,0 +1,163 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "async-http-client",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-server/async-http-client.git",
+          "name" : "async-http-client"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "333e60cc90f52973f7ee29cd8e3a7f6adfe79f4e",
+            "version" : "1.17.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "async-http-client"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-atomics",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-atomics.git",
+          "name" : "swift-atomics"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "6c89474e62719ddcc1e9614989fff2f68208fe10",
+            "version" : "1.1.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-atomics"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-collections",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-collections.git",
+          "name" : "swift-collections"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "937e904258d22af6e447a0b72c0bc67583ef64a2",
+            "version" : "1.0.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-collections"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-log",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-log.git",
+          "name" : "swift-log"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "32e8d724467f8fe623624570367e3d50c5638e46",
+            "version" : "1.5.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-log"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-nio",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-nio.git",
+          "name" : "swift-nio"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "f7c46552983b06b0958a1a4c8bc5199406ae4c8a",
+            "version" : "2.51.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-nio"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-nio-extras",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-nio-extras.git",
+          "name" : "swift-nio-extras"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "0e0d0aab665ff1a0659ce75ac003081f2b1c8997",
+            "version" : "1.19.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-nio-extras"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-nio-http2",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-nio-http2.git",
+          "name" : "swift-nio-http2"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "6d021a48483dbb273a9be43f65234bdc9185b364",
+            "version" : "1.26.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-nio-http2"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-nio-ssl",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-nio-ssl.git",
+          "name" : "swift-nio-ssl"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "e866a626e105042a6a72a870c88b4c531ba05f83",
+            "version" : "2.24.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-nio-ssl"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-nio-transport-services",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-nio-transport-services.git",
+          "name" : "swift-nio-transport-services"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "41f4098903878418537020075a4d8a6e20a0b182",
+            "version" : "1.17.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-nio-transport-services"
+      }
+    ]
+  },
+  "version" : 5
+}
